@@ -2583,8 +2583,14 @@
   "recoveryPhraseReminderTitle": {
     "message": "Protect your funds"
   },
+  "refreshAccounts": {
+    "message": "Refresh accounts"
+  },
   "refreshList": {
     "message": "Refresh list"
+  },
+  "refreshingAccounts": {
+    "message": "Refreshing accounts..."
   },
   "reject": {
     "message": "Reject"
